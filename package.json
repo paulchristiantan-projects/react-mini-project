@@ -1,6 +1,8 @@
 {
   "name": "react-mini-project",
   "version": "0.1.0",
+  "description": "A simple mini project built with React",
+  "authors": ["Macki", "Tesa", "Anette"],
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
